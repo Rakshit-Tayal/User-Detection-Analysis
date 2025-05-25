@@ -1,0 +1,8 @@
+
+    ### Key Findings:
+    1. New visitors spend less time on product pages compared to returning visitors.
+    2. Region-specific purchase rates vary, with some regions showing higher engagement.
+    3. Bounce rates are higher for new visitors, indicating potential onboarding issues.
+    4. Product page duration correlates moderately with purchases.
+    5. Outliers in duration and bounce rates were capped for robust analysis.
+    
